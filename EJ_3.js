@@ -116,3 +116,9 @@ while (valor < num){
         console.log("Senar " + valor)
     }
 }*/
+
+//EX8
+/*var asterisco = "*";
+for(var i = 0; i <= 5; i++){
+    console.log(asterisco.repeat(i))
+}*/
