@@ -71,3 +71,35 @@ for(var i = 0; i < num.length; i++){
 }
 
 console.log(sum);*/
+
+//EX6
+/*var num1 = 7;
+var num2 = 42;
+var num3 = 83;
+switch (true) {
+    case (num1 > num2 && num2 > num3 && num1 > num3):
+        console.log(num1 + " " + num2 + " " + num3)
+        break;
+
+    case (num1 > num2 && num2 < num3 && num1 > num3):
+        console.log(num1 + " " + num3 + " " + num2)
+        break;
+
+    case (num1 < num2 && num2 > num3 && num1 > num3):
+        console.log(num2 + " " + num1 + " " + num3)
+        break;
+
+    case (num1 < num3 && num3 > num2 && num1 > num2):
+        console.log(num3 + " " + num1 + " " + num2)
+        break;
+
+    case (num1 < num3 && num3 > num2 && num1 < num2):
+        console.log(num3 + " " + num2 + " " + num1)
+        break;
+
+    case (num1 < num2 && num2 > num3 && num1 < num3):
+        console.log(num2 + " " + num3 + " " + num1)
+        break;
+}*/
+
+
