@@ -48,3 +48,16 @@ switch (true) {
         console.log("Excel·lent")
         break;
 }*/
+
+//EX4
+var num = prompt("Introdueix un numero");
+var sum = 0;
+var n = 0;
+while(sum < num){
+    console.log(n)
+    n++;
+    sum = sum + n
+}
+console.log(n)
+console.log("n és " + n)
+console.log("x és " + num)
