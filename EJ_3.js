@@ -50,7 +50,7 @@ switch (true) {
 }*/
 
 //EX4
-var num = prompt("Introdueix un numero");
+/*var num = prompt("Introdueix un numero");
 var sum = 0;
 var n = 0;
 while(sum < num){
@@ -60,4 +60,14 @@ while(sum < num){
 }
 console.log(n)
 console.log("n és " + n)
-console.log("x és " + num)
+console.log("x és " + num)*/
+
+//EX5 
+/*var text = "21krei32g8g38g348g";
+var num = text.replace(/[^0-9]/gi, "");
+var sum = 0;
+for(var i = 0; i < num.length; i++){
+    sum += Number(num.charAt(i))
+}
+
+console.log(sum);*/
