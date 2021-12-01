@@ -24,3 +24,27 @@ x >= 10 && x <= 50 ? console.log(x + ' Esta dins del rang')
 
 y >= 10 && y <= 50 ? console.log(y + ' Esta dins del rang')
                    : console.log(y + ' No esta dins del rang')*/
+
+//EX3
+/*var nota = prompt("Introdueix la nota: ");
+switch (true) {
+    case (nota >= 0 && nota <= 4.99):
+        console.log("Suspès")
+        break;
+
+    case (nota >= 5 && nota <= 5.99):
+        console.log("Suficient")
+        break;
+
+    case (nota >= 6 && nota <= 6.99):
+        console.log("Bé")
+        break;
+
+    case (nota >= 7 && nota <= 8.99):
+        console.log("Notable")
+        break;
+
+    case (nota >= 9 && nota <= 10):
+        console.log("Excel·lent")
+        break;
+}*/
