@@ -103,3 +103,16 @@ switch (true) {
 }*/
 
 
+
+//EX7
+/*var num = 10
+var valor = 0;
+while (valor < num){
+    valor++;
+    if (valor%2 === 0){
+        console.log("Parell " + valor)
+    }
+    else if (valor%2 !== 0){
+        console.log("Senar " + valor)
+    }
+}*/
